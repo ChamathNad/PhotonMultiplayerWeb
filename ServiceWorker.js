@@ -1,9 +1,9 @@
 const cacheName = "MiracleRiver-MultiplayerPhotonLearning-0.1.0";
 const contentToCache = [
     "Build/Photon build.loader.js",
-    "Build/Photon build.framework.js",
-    "Build/Photon build.data",
-    "Build/Photon build.wasm",
+    "Build/Photon build.framework.js.br",
+    "Build/Photon build.data.br",
+    "Build/Photon build.wasm.br",
     "TemplateData/style.css"
 
 ];
